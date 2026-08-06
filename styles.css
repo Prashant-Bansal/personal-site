@@ -70,3 +70,7 @@ footer {
     padding: var(--spacing-md);
     color: gray;
 }
+
+main section article {
+    padding-bottom: 16px;
+}
