@@ -11,8 +11,8 @@
     --color-text: #1b2a4a;
     --color-bg: #f7f9fc;
     --color-card: #ffffff;
-    --spacing-md: 16px;
-    --spacing-lg: 32px;
+    --spacing-md: 1rem;
+    --spacing-lg: 2rem;
 }
 
 /* 3. Base styles */
