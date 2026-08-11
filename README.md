@@ -5,9 +5,6 @@ My personal portfolio site, built with semantic HTML5 as part of learning full-s
 ## Live Demo
 https://prashant-bansal.github.io/personal-site/
 
-## Responsive
-Tested at 375px, 768px, and 1440px using Chrome DevTools device toolbar.
-
 ## Tech Stack
 - HTML5 (semantic structure, forms, accessibility)
 - CSS/Tailwind coming in week 2-3
